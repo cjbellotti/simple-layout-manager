@@ -1,0 +1,17 @@
+{
+  "name": "simple-layoutmanager",
+  "version": "0.5.0",
+  "authors": [
+    "Carlos Bellotti <cjbellotti@hotmail.com>"
+  ],
+  "description": "Simple Layout Manager",
+  "main": "public/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
